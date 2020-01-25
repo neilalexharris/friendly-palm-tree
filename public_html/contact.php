@@ -40,19 +40,26 @@
 			<?php include 'menu.html'; ?>
 		</div>
 
-		<div id="main" class="lightblue">
-			<h1 class="lightblue">Email</h1>
-			<br/>
-
-			<p>tate@tatumnelson.co.uk</p>
-			<br/>
-
-			<h1 class="lightblue">Mobile</h1>
-			<br/>
-
-			<p>07738324442</p>
-			<br/>
-
+		<div id='main' class='lightblue'>
+			<form method='POST' action='contact_send.php'>
+				<div class='row'>
+					<div class='col-6'>
+						<div><label>First Name:</label></div>
+						<div><input class='form-control' type='text' name='first_name'/></div>
+						<div><label>Surname:</label></div>
+						<div><input class='form-control' type='text' name='surname'/></div>
+						<div><label>Email:</label></div>
+						<div><input class='form-control' type='text' name='user_email'/></div>
+					</div>
+				</div>
+				<div class='row'>
+					<div class='col-9'>
+						<div><label>Message:</label></div>
+						<div><textarea rows='10' class='form-control' name='msg_body' placeholder="Please input your message here..."></textarea></div>
+						<div><input class='button' type='submit' value='Send'/></div>
+					</div>
+				</div>
+			</form>
 		</div>
 
 		<div id='social'>
