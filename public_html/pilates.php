@@ -50,7 +50,29 @@
 		</div>
 
 		<div id="main">
-			<h1 class='highlight'>Info coming soon!</h1>
+			<h1 class='highlight'>Pilates & Me</h1></br>
+
+			<p>
+				I trained to be a Mat Pilates teacher 8 years ago after the birth of my first child. I was seeking an exercise routine that was restorative,
+				gentle and nurturing yet made me feel stronger and cleared my mind. Pilates ticked all of the boxes.
+			</p></br>
+
+			<p>
+				Pilates will enhance posture, flexiblity, balance, muscle and core strength. (working from the cente powerhouse). Focus is made on the breathing,
+				helping to calm and promote the mind - body connection. It is excellent for stabilizing and elongating muscles and can complement your current routine
+				or help make any areas of weakness within the body stronger.
+			</p></br>
+
+			<p>
+				I offer, 1:1, 2:1 sessions and small groups. I do not teach any classes of more than 8 as eye to detail is crucial for pilates, the execution is paramount
+				to feeling the amazing benefits. I don’t want to over subscribe a class to the detriment of my clients.
+			</p></br>
+
+			<p>
+				I combine Pilates into all of my personal training sessions. This way the amazing benefits of it can be felt. Amongst all of the above benefits,
+				it successfully highlights any imbalances in the body and then I can address and strengthen these through a combination of pilates and personal training.
+			</p></br>
+
 		</div>
 
 		<div id='social'>

@@ -43,7 +43,26 @@
 		<div id='main'>
 			<div class='row'>
 				<div class='col-8'>
-					<?php include 'main.html'; ?>
+					<p>
+						I started my career in London, having trained under the guidance of Matt Roberts in Chelsea. I quickly developed an effective approach that led to results.
+						My clients learned to train effectively, improving both their fitness and emotional wellbeing, feeling uplifted after sessions.
+					</p></br>
+
+					<p>
+						I train a number of high profile clients, these have included individual members of the girl band The Saturdays and Colin Jackson.
+						But I also work with a lot of people locally from older ladies wanting to regain their confidence to incorporate exercise into their lives to someone who wants to train quietly, building belief.
+					</p></br>
+
+					<p>
+						When I train my clients it is important that I get a result that benefits both the body and the mind. Under my guidance I will help you to train intuitively so you will leave a session feeling
+						energised, uplifted and inspired to keep exercising, making it part of your life. (??rather than feeling drained and not wanting to come back, as is seen all to often these days with PT!
+					</p></br>
+
+					<p>
+						There is also information overload when it comes to health and fitness.It is confusing!! And can be rather off putting.
+						I want to help you to cut through all of the fads and get on with effective training, that is designed just for you.
+						I will help you with exercise and nutrition and guide you to a happy healthier lifestyle.
+					</p>
 				</div>
 				<div class='col-4'>
 					<div class='back-image'>

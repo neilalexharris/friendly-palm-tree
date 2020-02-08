@@ -43,70 +43,53 @@
 		<div id="main">
 			<div class="row">
 				<div class="col-12">
-					<h1 class="lightblue block-title" align="center">Personal Training</h1>
-				</div>
-			</div>
-			<p>Tatum is a REPS Level 3 Personal Trainer, who works with clients in the <span class="lightblue">Sevenoaks, Tonbridge &amp;
-				Tunbridge Wells areas in Kent</span>, and has the equipment required to travel to the client to provide the ultimate in convenient and personalised training.
-				Or if you'd prefer, Tatum also offers sessions at her home studio based in Tonbridge.</p>
-			<br/>
+					<h1 class='highlight'>Personal Training</h1></br>
 
-			<p>Personal Training with Tatum can cover a range of goals, including:</p>
-			</br>
-			<div class="row pad-block">
-				<div class="col-2 margin-block block-title flex">
-					<h3 class="lightblue">Weight Loss</h3>
-					<p>Shift stubborn weight and keep it off!</p>
-				</div>
-				<div class="col-2 margin-block block-title flex">
-					<h3 class="lightblue">Cardiovascular Fitness</h3>
-					<p>Train for health, lower blood pressure, nurture your heart, be healthy and happy!</p>
-				</div>
-				<div class="col-2 margin-block block-title flex">
-						<h3 class="lightblue">Pre &amp; Post Natal Programmes</h3>
-						<p>For mums to be, or for women that have just given birth, Tatum can get you back into shape and shift the pounds safely and effectively</p>
-				</div>
-				<div class="col-2 margin-block block-title flex">
-					<h3 class="lightblue">Improved Well-being</h3>
-					<p>Feel better, small steps lead to big gains - excellent stress relief!</p>
-				</div>
-				<div class="col-2 margin-block block-title flex">
-					<h3 class="lightblue">Nutrition Advice</h3>
-					<p>Diet &amp; Weight Management to guide you to start eating better and to enhance your fitness programme success</p>
-				</div>
-				<div class="col-2 margin-block block-title flex">
-					<h3 class="lightblue">Strength</h3>
-					<p>With the focus on total body strength, this is for the client that wants to attain power and strength effectively!</p>
-				</div>
-				<div class="col-2 margin-block block-title flex">
-					<h3 class="lightblue">Core Conditioning</h3>
-					<p>A strong core is the foundation upon which all successful workout programmes must be built!</p>
-				</div>
-				<div class="col-2 margin-block block-title flex">
-					<h3 class="lightblue">Run Analysis</h3>
-					<p>Tatum draws on her 20 years experience at the athletics track, and the knowledge she has gathered
-					from some of the best physiotherapists and analysts from around the world to give you straight-to-the-point advice
-					about running technique, shoes and biomechanics</p>
-				</div>
-			</div>
+					<h3 class='highlight'>My Training Method</h2></br>
 
-			<div class="row">
-				<div>
-					<h3 class="lightblue">How it works</h3>
-					<p>To begin, Tatum will assess your fitness profile; go through with you your fitness goals and aspirations,
-						any fears you may have, and analyse your body biomechanics. From there Tatum will devise a totally bespoke programme unique to you.</p>
-					<p>From this point, Tatum will periodically assess improvements to ensure that everything is on track for reaching your goals.</p>
-					</br>
+					<p>
+						Details of PT - what I offer - travel to peoples homes / train outside. 1;1, 2;1 and small groups, buddy up.
+					</p></br>
 
-					<h3 class="lightblue">Why not buddy up?</h3>
-					<p>Want to train with a friend or partner? Share the cost of a single session fee.</p>
-					<p>Tatum will do sessions for 2-3 people at a time too!</p>
-					</br>
+					<p>
+						I train my clients with their overall wellbeing in mind. Sessions are effective, being stimulating to both body and mind.
+						They are varied, fun and enjoyable. ((I want to improve my clients physical and emotional well-being through exercise.)).
+						We will sit down together, plan what your personal aims are and I will help you to achieve them. Giving you the confidence you need to
+						make exercise work for you.
+					</p></br>
 
-					<h3 class="lightblue">Discounts</h3>
-					<p>Personal training sessions can be bought on an individual basis, or blocks of 5 or 10 sessions at a discounted rate.
-					Please email or call for further details.</p>
-					</br>
+					<p>
+						I make my training programmes unique to you. All sessions are bespoke, as everyone is different and each person has different needs.
+						There is no blanket sessioning (one-size-fits all???)! Some types of exercise will be effective for one person, and completely wrong for another.
+					</p></br>
+
+					<p>
+						Today there are too many PTs who have an approach to overwork their clients. They give them hard sessions, overloading people’s adrenal glands and depleting their energy systems. Clients wrongly believe that to get results it has to hurt. The old adage “no pain, no gain” is overused and has a lot to answer for! The sessions they prescribe are not enjoyable or fun and not healthy for emotional or physical wellbeing state. Motivation soon dries up and people are left feeling deflated, and wanting to give up. ( But they keep returning believing it must be good for them - it is not!! It becomes a viicious cycle where an unhealthy relationship with exercise is created. ))))
+					</p></br>
+
+					<p>
+						I aim to re-educate - I want people to understand that exercise does not need to be like this. Pain is not needed to make it effective.
+						I instill a belief in all of my clients whether they are 25 or 65, that fitness is a healthy journey, a process, and it is achievable.
+						I am here to support you all the way. Exercising healthily can become part of your lifestyle.
+						((There is no need to not be able to walk properly the next day, or feel ill at the end of a session. This does not make it effective!! This is not good!!))
+					</p></br>
+
+					<p>
+						“Today there is so much focus on exercising to achieve a certain body, the world has become obsessed with body image. I don’t believe that with this as the driving force, that exercise is sustainable or healthy. I like to focus on exercise for health and wellbeing - the rest will take care of itself as a byproduct”
+						(((I train people intuitively. Not only do I address their physical aims, based off of 25 years of experience in sport, but also their emotions and how they are feeling. When a client comes to a session, I have an idea of how we are going to train to achieve the goals they have, but if the session is not going to leave them finishing the session feeling on a high, then I will adapt my plan so the goal is still achieved but so it also compliments what they need emotionally too. )))
+						Training with me can cover:
+					</p>
+					<ul>
+						<li class='highlight'><p>Cardiovascular fitness</p></li>
+						<li class='highlight'><p>Strength and conditioning training</p></li>
+						<li class='highlight'><p>Improved wellbeing</p></li>
+						<li class='highlight'><p>Core conditioning</p></li>
+						<li class='highlight'><p>Pilates</p></li>
+						<li class='highlight'><p>Pre and post natal</p></li>
+						<li class='highlight'><p>Nutrition advice</p></li>
+						<li class='highlight'><p>Running advice</p></li>
+						<li class='highlight'><p>All sessions will incorporate these foundations - bodyweight strength, core strength and cardiovascular fitness</p></li>
+					</ul>
 
 				</div>
 			</div>
