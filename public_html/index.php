@@ -59,15 +59,31 @@
 					</p></br>
 
 					<p>
-						There is also information overload when it comes to health and fitness.It is confusing!! And can be rather off putting.
+						There is also information overload when it comes to health and fitness. It is confusing!! And can be rather off putting.
 						I want to help you to cut through all of the fads and get on with effective training, that is designed just for you.
 						I will help you with exercise and nutrition and guide you to a happy healthier lifestyle.
+					</p></br>
+
+					<h1 class='highlight'>Emotionally Prescriptive Exercise</h1></br>
+					<p>
+						Perhaps add the following I have written to what is already there - but do cut some of the original out.</br>
+						Banners / Quotation Wording Options - these are for various pages and may work better on one page than another)
+					</p></br>
+					<p>
+						“I design your workout based on your needs.”</br>
+						“It is important to me that all of my clients leave feeling emotionally refreshed, as well as having a physical workout.”</br>
+						When I train someone it is important to me that they leave feeling mentally uplifted, and emotionally refreshed.”</br>
+						“By working the body intuitively, gains can be made not only physically but emotionally and this for me is the key to an effective workout.”
+						 - this is a really important message about my training to get across and should feature on a front page</br>
+						“The right type of exercise leaves you feeling refreshed, it makes everything feel that litle bit more manageable”</br>
+						“Today there is so much focus on exercising to achieve a certain body, the world has become obsessed with body image.
+						I don’t believe that with this as the driving force, that exercise is sustainable. I like to focus on exercise for health and wellbeing - the rest will take care of itself as a byproduct”</br>
 					</p>
 				</div>
 				<div class='col-4'>
 					<div class='back-image'>
 						<img style='opacity:0.2' src='images/Photos/tate_run.jpg' alt='Tatum Running'>
-						<h1 style='font-size:40px; color:#666' class='text-overlay highlight'>"Text to go over photo"</h1>
+						<h1 style='font-size:40px; color:#999' class='text-overlay highlight'>Text to go over photo</h1>
 					</div>
 				</div>
 			</div>
