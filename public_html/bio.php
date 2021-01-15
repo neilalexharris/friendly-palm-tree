@@ -44,9 +44,9 @@
 			<h1 class="lightblue">About Me</h1>
 			<br/>
 			<p>
-				My background is as an international track and field athlete, I have a wealth of experience as an elite athlete over 100m, 200m and 400m.
-				I competed for Great Britain and England on many occasions and incorporate the benefits of this rare insight into the world of elite sport with all my personal training.
-				I want to share the knowledge I have gained, as all of this experience can be adapted and benefit PT sessions.
+				My background is as an international track and field athlete, with a wealth of experience over 100m, 200m and 400m. I competed for Great Britain and England on many occasions and
+				incorporate the benefits of this rare insight into the world of elite sport with all my personal training. I want to share the knowledge I have gained, as all of this
+				experience can be adapted and benefit PT sessions.
 			</p></br>
 
 			<p>
@@ -56,19 +56,12 @@
 			</p></br>
 
 			<p>
-				By the age of 14 as one of the best juniors in the World over the sprint distances. Her accolades include World Schools 100m Silver medallist and 4x100m Gold medallist;
-				European Junior 100m finalist and 4x100m Silver medallist, and still features in Britain's top 10 fastest ever times for 100m and 200m. She has trained with many of athletics' elite,
-				 and has also worked with sports people from other disciplines including Olympic swimmer Mark Foster and former All Black rugby international Jonah Lomu
-				 During her sporting career Tatum travelled to Europe, the Middle East, America and Australia, gaining experience in how other nations approach fitness and she incorporates this into her training programmes.
+				I also trained as a dancer, staying with dance up to Elementary level in ballet, until my athletics career really took off and I had to specialise. *** mention multiple sources of experience, different approaches, not 'one-trick-pony' ***
 			 </p></br>
 
 			 <p>
-				 having represented Great Britain and England on many occasions. I trained as a dancer staying with dance up to Elementary level in ballet,
-				 when my athletics career really took off and I had to specialise. I have drawn on all of these elements and experiences to make my approach effective and sustainable.
-			 </p></br>
-
-			 <p>
-				 MENTION that am a mum.
+				 As well as now being a PT, I am also a Mum to 2 lovely children (and a dog!), which gives me a great understanding of the time constraints and pressures of family life. My training is always
+				 tailored to be sympathetic to the external stresses in life, whatever they may be.
 			 </p>
 		</div>
 
